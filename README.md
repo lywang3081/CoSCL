@@ -15,7 +15,7 @@ This code is the official implementation of our paper.
 - CUB-200-2011 : https://github.com/visipedia/tf_classification/wiki/CUB-200-Image-Classification
 - Tiny-ImageNet : ```cd download``` ```source download_tinyimgnet.sh```
 
-Please download the datasets and extract them into ```./dat/CUB_200_2011``` and ```./dat/tiny-imagenet-200```, respectively.
+Please download the datasets and put them into ```./dat/CUB_200_2011``` and ```./dat/tiny-imagenet-200```, respectively.
 
 ### Execution command
 The commands to run most of the experiments are included in **script_classification.sh**.
