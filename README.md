@@ -1,4 +1,4 @@
-# [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One (ECCV2022)]() 
+# [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One (ECCV 2022)]() 
 
 ------
 This code is the official implementation of our paper.
